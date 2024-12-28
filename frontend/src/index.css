@@ -20,8 +20,8 @@ nav {
 
 nav .action button {
   background-color: #f4f0e4;
-  color: #f5400f;
-  border: 2px solid #f5400f;
+  color: #730ff5;
+  border: 2px solid #730ff5;
   border-radius: 20px;
   padding: 0.5em 1em;
   font-size: 1.1em;
@@ -33,7 +33,7 @@ nav .action button {
   margin-top: 1em;
 }
 .headline span {
-  color: #f5400f;
+  color: #730ff5;
 }
 
 .addNote {
@@ -43,7 +43,7 @@ nav .action button {
   padding: 1em 2em;
   font-size: 1.1em;
   letter-spacing: 1px;
-  background: linear-gradient(#c53913, #f5400f);
+  background: linear-gradient(#730ff5, #964afa);
   color: #f4f0e4;
   border: none;
   border-radius: 10px;
@@ -73,7 +73,7 @@ nav .action button {
 }
 
 .note-form button {
-  background: linear-gradient(#c53913, #f5400f);
+  background: linear-gradient(#730ff5, #9d52ff);
   outline: none;
   color: #fff;
   font-size: 1.4em;
@@ -104,7 +104,7 @@ nav .action button {
 
 .noteCard .title,
 .note-details .title {
-  color: #f5400f;
+  color: #730ff5;
   display: flex;
   justify-content: space-between;
   text-transform: capitalize;
